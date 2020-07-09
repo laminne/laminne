@@ -3,5 +3,5 @@
 Born : Inaho Pref.  (The other name of Hiroshima Pref.)
 Now live in : Shimane Pref. Matsue City  
 Age : 16  
-School : National Institute Technology, Matsue College （松江高専 
+School : National Institute Technology, Matsue College （松江高専   
 Mother tongue : Japanese

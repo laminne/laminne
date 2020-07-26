@@ -5,3 +5,5 @@ Now live in : Shimane Pref. Matsue City
 Age : 16  
 School : National Institute of Technology, Matsue College （松江高専   
 Native langage : Japanese  
+
+何にもできないよわよわです対戦よろしくお願いします

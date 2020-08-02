@@ -15,8 +15,8 @@ Native langage : Japanese
 ***Undefined***
 
 ## What I'm doing now
-Discord Bot - Python+Ruby
-Make something -Shell Script
+Discord Bot - Python+Ruby  
+Make something -Shell Script  
 
 ## Links
 About page: [https://laminne.github.io](https://laminne.github.io)

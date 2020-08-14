@@ -4,6 +4,7 @@
 ![HighSchool Student:no](https://img.shields.io/badge/HighSchool_Student-no-yellow?style=for-the-badge)
 ![ruby:faild](https://img.shields.io/badge/ruby-faild-red?style=for-the-badge)
 ![python:faild](https://img.shields.io/badge/python-faild-red?style=for-the-badge)
+![assembly:faild](https://img.shields.io/badge/assembly-Can't_understand-red?style=for-the-badge)  
 
 Born : Inaho Pref.  (The other name of Hiroshima Pref.)  
 Now live in : Shimane Pref. Matsue City  

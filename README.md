@@ -1,4 +1,5 @@
-# laminne33569
+# $whoami 
+## laminne33569
 
 ![Age:16](https://img.shields.io/badge/Age-16-green?style=for-the-badge)
 ![School:NIT Matsue College](https://img.shields.io/badge/School-NIT,MatsueCollege-blue?style=for-the-badge)
@@ -16,11 +17,11 @@ Native langage : Japanese
 
 頭のおかしい情報系高専生
 
-## works
+## $works
 
 **_Undefined_**
 
-## Links
+## $Links
 
 About page: [https://laminne.github.io](https://laminne.github.io)
 

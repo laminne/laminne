@@ -2,7 +2,7 @@
 ## laminne33569
 
 ![Age:16](https://img.shields.io/badge/Age-16-green?style=for-the-badge)
-![School:NIT Matsue College](https://img.shields.io/badge/School-NIT,MatsueCollege-blue?style=for-the-badge)
+![School:NIT Matsue College](https://img.shields.io/badge/School-NIT,_Matsue_College-blue?style=for-the-badge)
 ![kosen20s](https://img.shields.io/badge/kosen-20s-skyblue?style=for-the-badge)
 ![HighSchool Student:no](https://img.shields.io/badge/HighSchool_Student-no-yellow?style=for-the-badge)
 ![ruby:faild](https://img.shields.io/badge/ruby-faild-red?style=for-the-badge)

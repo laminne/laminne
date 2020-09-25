@@ -15,7 +15,7 @@ Age : 0x10
 School : National Institute of Technology, Matsue College （松江高専  
 Native langage : Japanese
 
-頭のおかしい情報系高専生
+***頭FF00FF系高専生***
 
 ## $works
 

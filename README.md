@@ -17,6 +17,14 @@ Native langage : Japanese
 
 ***頭FF00FF系高専生***
 
+## $Langs
+### Learning
+Ruby JavaScript Python
+
+## A little
+HTML/CSS
+(Docker)
+
 ## $works
 
 **_Undefined_**

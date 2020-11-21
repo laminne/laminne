@@ -1,50 +1,46 @@
-# $whoami 
-## laminne33569
+# laminne33569
 
-![Age:16](https://img.shields.io/badge/Age-16-green?style=for-the-badge)
-![School:NIT Matsue College](https://img.shields.io/badge/School-NIT,_Matsue_College-blue?style=for-the-badge)
-![kosen20s](https://img.shields.io/badge/kosen-20s-skyblue?style=for-the-badge)
-![HighSchool Student:no](https://img.shields.io/badge/HighSchool_Student-no-yellow?style=for-the-badge)
-![ruby:faild](https://img.shields.io/badge/ruby-faild-red?style=for-the-badge)
-![python:faild](https://img.shields.io/badge/python-faild-red?style=for-the-badge)
-![assembly:faild](https://img.shields.io/badge/HTML\&CSS-Can't_understand-red?style=for-the-badge)
+## 自己紹介
 
-Born : Inaho Pref. (The other name of Hiroshima Pref.)  
-Now live in : Shimane Pref. Matsue City  
-Age : 0x10  
-School : National Institute of Technology, Matsue College （松江高専  
-Native langage : Japanese
+🌟 laminne33569 / Tatsuto Yamamoto 🌟
 
+<img src="https://github.com/laminne.png" width="20%">
 
-## $experience
-全国中学生創造アイデアロボコン  
-2017 中四国地方大会出場(県5位  
-2018 中四国地方大会出場  
-2019 県大会出場  
+### 🏢 School 
+National Institute of Technology, **Matsue College**  
 
-松江オープンソース活用ビジネスプランコンテスト2019  
-優秀賞 (中学生初登壇/受賞  
+**松江工業高専 情報工学科**  
 
-## $Langs
-### Learning
-Ruby JavaScript Python
+### 🖋 _Free space_  
+小学2年生でプログラムの世界に堕ち、  
+中学3年間でRubyのコードを書きつつロボコンの制御+設計をしていた、  
+四六時中何かしらの技術のことを頭の中で考えてる高専生です  
 
-## A little
-HTML/CSS
-(Docker)
+Development以外に興味が~~ほぼ~~ないので  
+ネタ等々が通じないこともあるかもですがﾕﾙｼﾃ...  
 
-## $works
+臆病かつ中度の人見知りなので優しくしてほしいです..
 
-**_Undefined_**
+## ✨ Langages/Skills  
 
-## $Links
+### できる...はず
+Ruby (3years)  
+Python (2years)  
+Creating Server Environment (2years)  
 
-About page: [https://laminne.github.io](https://laminne.github.io)  
-keybase: [https://keybase.io/laminne33569](https://keybase.io/laminne33569)
+### うぅ...自信ない...
+HTML5/CSS3 (4years) 
+Javascript (1years)  
+Docker / Docker-compose (2years)  
+ROBOCON (4years)  
+ShellScript (0.5year)  
+Vagrant (1year)  
+SQL{MySQL/PostgreSQL/SQLite}(1.5years)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=laminne&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminne" />
-</a>
+## 💭これからしてみたいこと
+IoT関連  
+電子工作    
+OSとかのソースコードリーディング  
+サーバー/インフラ/ネットワーク  
+Webバックエンド  
+ナローバンド通信  

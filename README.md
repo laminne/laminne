@@ -22,6 +22,9 @@ Development以外に興味が~~ほぼ~~ないので
 
 臆病かつ中度の人見知りなので優しくしてほしいです..
 
+コーディング歴3年、(簡易言語等全て含め)8年です  
+~~これまでの人生の半分をすべて捨ててきました~~  
+
 ## ✨ Langages/Skills  
 
 ### できる...はず
@@ -46,3 +49,8 @@ OSとかのソースコードリーディング
 Webバックエンド  
 ナローバンド通信  
 2Dゲーム開発  
+
+## Links
+Twitter: Null(ある理由があって一旦離れてます、探してください)  
+Mastodon(Matsudai Server): @laminne@mstdn.maud.io  
+KeyBase: https://keybase.io/laminne33569  

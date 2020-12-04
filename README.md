@@ -51,6 +51,6 @@ Webバックエンド
 2Dゲーム開発  
 
 ## Links
-Twitter: Null(ある理由があって一旦離れてます、探してください)  
-Mastodon(Matsudai Server): @laminne@mstdn.maud.io  
+Twitter:  `@itoden_la`  
+Mastodon(Matsudai Server): `@laminne@mstdn.maud.io`  
 KeyBase: https://keybase.io/laminne33569  

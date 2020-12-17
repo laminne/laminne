@@ -67,6 +67,6 @@ Webバックエンド
 </details>
 
 ## Links
-Twitter:  `@itoden_la`  
+Twitter:  `@laminne33857`  
 Mastodon(Matsudai Server): `@laminne@mstdn.maud.io`  
 KeyBase: https://keybase.io/laminne33569  

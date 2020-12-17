@@ -12,6 +12,8 @@ National Institute of Technology, **Matsue College**
 **松江工業高専 情報工学科**  
 
 ### 🖋 _Free space_  
+<details>
+  <pre>
 小学2年生でプログラムの世界に堕ち、  
 中学3年間でRubyのコードを書きつつロボコンの制御+設計をしていた、  
 四六時中何かしらの技術のことを頭の中で考えてる高専生です  
@@ -23,16 +25,23 @@ Development以外に興味が~~ほぼ~~ないので
 臆病かつ中度の人見知りなので優しくしてほしいです..
 
 コーディング歴3年、(簡易言語等全て含め)8年です  
-~~これまでの人生の半分をすべて捨ててきました~~  
+~~これまでの人生の半分をすべて捨ててきました~~
+</pre>
+</details>
 
 ## ✨ Langages/Skills  
-
-### できる...はず
+<details>
+<summary>できる...はず</summary>
+  <pre>
 Ruby (3years)  
 Python (2years)  
 Creating Server Environment (2years)  
+ </pre>
+</details>
 
-### うぅ...自信ない...
+<details>
+<summary>うぅ...自信ない...</summary>
+  <pre>
 HTML5/CSS3 (4years) 
 Javascript (1years)  
 Docker / Docker-compose (2years)  
@@ -40,8 +49,13 @@ ROBOCON (4years)
 ShellScript (0.5year)  
 Vagrant (1year)  
 SQL{MySQL/PostgreSQL/SQLite}(1.5years)  
-
+</pre>
+  </details>
+  
 ## 💭これからしてみたいこと
+<details>
+  <summary>折りたたみ</summary>
+  <pre>
 IoT関連  
 電子工作    
 OSとかのソースコードリーディング  
@@ -49,6 +63,8 @@ OSとかのソースコードリーディング
 Webバックエンド  
 ナローバンド通信  
 2Dゲーム開発  
+</pre>
+</details>
 
 ## Links
 Twitter:  `@itoden_la`  

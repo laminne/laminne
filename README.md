@@ -32,4 +32,5 @@ SQL{MySQL/PostgreSQL/SQLite}(1.5years)
 ## Links
 Twitter:  `@laminne33857`  
 Mastodon(Matsudai Server): `@laminne@mstdn.maud.io`  
-KeyBase: https://keybase.io/laminne33569  
+Discord: `laminne33569#8098`  
+KeyBase: `@laminne33569`  

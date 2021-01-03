@@ -8,6 +8,7 @@ laminne(らみん)です.NIT MC(島根県 松江高専)の情報系学科にい�
 特にRubyを書いてます(きれいにかけるとは言ってない).ほかにはHTML/CSS,Pythonが書けます.  
 サーバー環境構築,Docker,Nginx,MariaDB環境の構築もたまにしてます  
 メインでAlter Linux(Arch Linux)を使ってます  
+OSS製品を使ったり複数のサービスを組み合わせたりもしてました
 
 ### Hobbies
 🎼Listening Music(Nanawo Akari,Gen Hoshino,Yello Magic Orchestra)  

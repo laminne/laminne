@@ -6,7 +6,7 @@ laminneです.NIT-MC(島根県 松江高専)の情報系学科にいます.
 
 ### ハンドルネーム
 基本インターネット上でもリアルでもlaminne,laminne33569,laminne33857,laminのどれかを使ってます(英語部分の読みはすべて"らみん"です)  
-ごくまれに~~Cotri Oniwa(おおにわ　ことり((CotTyan))),~~ペリィ(perry)を使っている場合があります
+ごくまれに ~~Cotri Oniwa(おおにわ　ことり((CotTyan))),~~ ペリィ(perry)を使っている場合があります
 
 ### Langages/Skills  
 #### Programming:

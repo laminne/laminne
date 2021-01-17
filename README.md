@@ -26,7 +26,7 @@
 ## Links
 | Service Name | Account Name |
 | --- | --- |
-| Twittr | `@laminne33` |
+| Twitter | `@laminne33` |
 | Mastodon(Matsudai Server) | `@laminne@mstdn.maud.io` |
 | Discord | `laminne33569#8098` |
 | Keybase | `@laminne33569` |

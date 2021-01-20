@@ -1,9 +1,9 @@
 # laminne33569
 
 ## 自己紹介
-| HN | Name | School | Age | 
-| ---- | ----- | ----- | ---- |
-| @laminne | Tatsuto Yamamoto | NIT, Matsue(Shimane, JP) | 16yo | 
+| HN | Name | School | Age |  Type |
+| ---- | ----- | ----- | ---- | --- |
+| @laminne | Tatsuto Yamamoto | NIT, Matsue(Shimane, JP) | 16yo |  Web Backend Coder |
 
 ### Skills
 | Skill Name | Level |

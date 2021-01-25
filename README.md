@@ -18,9 +18,9 @@
 
 | Status | info |
 | --- | --- |
-| Listening Music | e.g) Nanawo Akari, Gen Hoshino, Yello Magic Orchestra |
-| Draw Pictures | e.g) My Icons |
-| Play Video Games | e.g) Legend Of Zelda; {A Link to the Past / OoT / BotW} |
+| Listening Music | Nanawo Akari, Gen Hoshino, Yello Magic Orchestra |
+| Draw Pictures | My Icons |
+| Play Video Games | Legend Of Zelda; {A Link to the Past / OoT / BotW} |
 | Watch Speedrun Videos | RTA In Japan, AGDQ |
 
 ## Links

@@ -20,7 +20,7 @@
 | --- | --- |
 | Listening Music | Nanawo Akari, Gen Hoshino, Yello Magic Orchestra |
 | Draw Pictures | My Icons |
-| Play Video Games | Legend Of Zelda; {A Link to the Past / OoT / BotW} |
+| Play Video Games | Legend Of Zelda; {ALTTP / OoT / BotW} |
 | Watch Speedrun Videos | RTA In Japan, AGDQ |
 
 ## Links

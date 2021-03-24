@@ -7,9 +7,16 @@ a KOSEN Student @Matsue,Shimane / Beginner Web Backend Coder
 -  School: National Institute of Technology, Matsue College  
 -  live: Matsue City, Shimane Pref. Japan
 
+## Achievement
+- Matsue Opensource Bussiness Plan Contest 2019 
+  - Outstanding performance award
+- International Ruby Programming Contest 2020
+  - Game Division
+  - First Place
+
 ## Skils
--  **Ruby**  
-A little (Not RoR)
+-  **Ruby & RoR**  
+A little
 -  **Make Server Environment**  
 A little (CentOS 7/8, Ubuntu Server)
 

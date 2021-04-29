@@ -20,7 +20,9 @@ A little
 -  **Python 3**  
 :No comment:  
 -  **Make Server Environment**  
-A little (CentOS 7/8, Ubuntu Server)
+A little (CentOS 7/8, Ubuntu Server)  
+- *JavaScript/TypeScript*  
+Studying...  
 
 ## Belongs
 - "限界開発鯖" [(UFIApprovers)](https://approvers.dev)  

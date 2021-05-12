@@ -1,5 +1,9 @@
 # laminne/Tatsuto Yamamoto
 
+| 日本語はこちら |
+| ------------  |
+| [日本語版README](https://github.com/laminne/laminne/blob/master/README_jp.md) |
+
 a KOSEN Student @Matsue,Shimane / Beginner Web Backend Coder
 
 ## Profile

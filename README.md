@@ -7,7 +7,7 @@
 a KOSEN Student @Matsue,Shimane / Beginner Web Backend Coder
 
 ## Profile
--  Birthday: 5/16/2004 (16yo)  
+-  Birthday: 5/16/2004 (17yo)  
 -  School: National Institute of Technology, Matsue College  
 -  live: Matsue City, Shimane Pref. Japan
 

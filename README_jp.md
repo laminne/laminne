@@ -17,6 +17,15 @@
   - ゲーム部門  
   - 最優秀賞  
 
+## 好きなもの/こと  
+- OSS 全般  
+中学生のときからいろんな分野の OSS のソースを読んだり微妙に書き換えて遊んでいました  
+学校の部活で OSS に対して Contribute したりもしています
+
+- Linux 系  
+保有するすべての端末で Linux-Kernel を動かしています(サーバー/スマートフォン/PC)
+CentOS8 / Arch|Alter Linux / Alpine Linux が好きです(CentOS が生まれる2日前に初版リリースされていることもあって)
+
 ## できること
 -  **Ruby**  
 簡単なツールなどに使ってます.WebAPIも書きます
@@ -25,3 +34,4 @@ DiscordのBotを書くのによく使います.
 - *JavaScript/TypeScript*  
 勉強中です  
 
+![https://github-readme-stats.vercel.app/api?username=laminne&count_private=true](https://github-readme-stats.vercel.app/api?username=laminne&count_private=true)

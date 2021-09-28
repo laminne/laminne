@@ -1,33 +1,34 @@
-# laminne/Tatsuto Yamamoto
+らみん /  Tatsuto YAMAMOTO
 
-| 日本語はこちら |
-| ------------  |
-| [日本語版README](https://github.com/laminne/laminne/blob/master/README_jp.md) |
-
-a KOSEN Student @Matsue,Shimane / Beginner Web Backend Coder
+Web系技術が好きなひとです.  
+基本JS/TSを書いてます.  
 
 ## Profile
--  Birthday: 5/16/2004 (17yo)  
--  School: National Institute of Technology, Matsue College  
--  live: Matsue City, Shimane Pref. Japan
+誕生日: 2004年5月16日
+プログラミング歴: 10年 (2012〜)
+コーディング歴: 5年 (2016〜)
 
-## Achievement
-- Matsue Opensource Bussiness Plan Contest 2019 
-  - Outstanding performance award
-- International Ruby Programming Contest 2020
-  - Game Division
-  - First Place
+## 所属
+限界開発鯖 と 共同開発鯖に居ます,  
+特定の企業にはいかなる形でも在籍しておりません,すべて個人の活動です
 
-## Skils
--  **Python 3**  
-:No comment:  
--  **Make Server Environment**  
-A little (CentOS 7/8, Ubuntu Server)  
-- **JavaScript/TypeScript**  
-A little
-- *Go*  
-Studying...
+## 興味があること
+- Webバックエンド系技術
+- コード設計  
+- 分散型SNS系統の技術
 
-## Belongs
-- "限界開発鯖" [(UFIApprovers)](https://approvers.dev)  
-Member
+## 言語など
+- JavaScript
+非同期処理の上手な書き方を最近は探しています
+- TypeScript
+型システムの理解を深めたいです
+
+## していること / 作っているもの
+
+- [Oshavery](https://github.com/undecided-discord/Oshavery)
+サーバー側のコラボレーターの一人として開発に参加しています
+
+- <PRIVATE REPOSITORY>
+- <NOT PUBLIC PROJECT>
+
+

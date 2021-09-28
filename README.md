@@ -28,7 +28,5 @@ Web系技術が好きなひとです.
 - [Oshavery](https://github.com/undecided-discord/Oshavery)
 サーバー側のコラボレーターの一人として開発に参加しています
 
-- <PRIVATE REPOSITORY>
-- <NOT PUBLIC PROJECT>
-
-
+- PRIVATE REPOSITORY
+- NOT PUBLIC PROJECT

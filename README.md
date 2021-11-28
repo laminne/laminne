@@ -47,7 +47,7 @@ Web系技術が好きなひとです.
 
 ## していること / 作っているもの
 
-- [Oshavery](https://github.com/undecided-discord/Oshavery)
+- [Oshavery](https://github.com/growthers/Oshavery)
 サーバー側のコラボレーターの一人として開発に参加しています
 
 - PRIVATE REPOSITORY
